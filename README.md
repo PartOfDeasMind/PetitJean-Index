@@ -27,13 +27,3 @@ It quantifies the ratio of molecular spread by comparing maximum and minimum dis
   - Graph radius & diameter  
 - Calculates the **Petitjean Index**
 
----
-
-## 📦 Installation
-Clone this repository and install required dependencies:
-
-```bash
-git clone https://github.com/PartOfDeasMind/PetitJean-Index.git
-cd PetitJean-Index
-pip install -r requirements.txt
-```
